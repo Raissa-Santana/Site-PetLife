@@ -1,0 +1,9 @@
+/* estilos gerais */
+
+/* cabeçalho do site */
+
+header{
+    background-color: rgb(249, 138, 97);
+    box-sizing: 50px;
+    margin: auto;
+}
